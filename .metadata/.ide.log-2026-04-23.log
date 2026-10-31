@@ -1,0 +1,57 @@
+2026-04-24 00:21:59,876 [INFO] WebApp:194 - Connection lost
+2026-04-24 00:22:01,080 [INFO] WebApp:191 - Connection restablished
+2026-04-24 00:22:04,862 [INFO] WebApp:194 - Connection lost
+2026-04-24 00:22:05,004 [INFO] WebApp:191 - Connection restablished
+2026-04-24 00:25:06,865 [INFO] WebApp:194 - Connection lost
+2026-04-24 00:25:07,034 [INFO] WebApp:191 - Connection restablished
+2026-04-24 00:43:27,364 [INFO] WebApp:194 - Connection lost
+2026-04-24 00:43:27,538 [INFO] WebApp:191 - Connection restablished
+2026-04-24 03:26:50,365 [INFO] WebApp:194 - Connection lost
+2026-04-24 03:26:50,539 [INFO] WebApp:191 - Connection restablished
+2026-04-24 03:29:52,356 [INFO] WebApp:194 - Connection lost
+2026-04-24 03:29:52,524 [INFO] WebApp:191 - Connection restablished
+2026-04-24 09:19:32,820 [INFO] WebApp:194 - Connection lost
+2026-04-24 09:19:33,008 [INFO] WebApp:191 - Connection restablished
+2026-04-24 11:23:42,724 [INFO] WebApp:194 - Connection lost
+2026-04-24 11:39:57,799 [INFO] WebApp:403 - JxBrowser engine has been closed 
+2026-04-24 11:40:54,955 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 712137008 Bytes (1073741824)
+2026-04-24 11:40:56,594 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 737181624 Bytes (1073741824)
+2026-04-24 11:40:58,637 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 785048704 Bytes (1073741824)
+2026-04-24 11:40:59,584 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: CAN
+2026-04-24 11:40:59,584 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-04-24 11:40:59,584 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-04-24 11:40:59,585 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-04-24 11:40:59,585 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-04-24 11:40:59,586 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-04-24 11:40:59,589 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-04-24 11:41:00,064 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\MXTmpFiles\license.tmp_save
+2026-04-24 11:41:00,780 [INFO] CodeEngine:289 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\MXTmpFiles\license.tmp
+2026-04-24 11:41:00,950 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\MXTmpFiles\gpio.tmp_save
+2026-04-24 11:41:01,275 [INFO] CodeEngine:289 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\MXTmpFiles\gpio.tmp
+2026-04-24 11:41:01,533 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Src\stm32f4xx_it.c_save
+2026-04-24 11:41:01,809 [INFO] CodeEngine:289 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Src\stm32f4xx_it.c
+2026-04-24 11:41:01,821 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Inc\stm32f4xx_it.h_save
+2026-04-24 11:41:01,956 [INFO] CodeEngine:289 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Inc\stm32f4xx_it.h
+2026-04-24 11:41:01,977 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Src\stm32f4xx_hal_msp.c_save
+2026-04-24 11:41:02,217 [INFO] CodeEngine:289 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Src\stm32f4xx_hal_msp.c
+2026-04-24 11:41:02,225 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\MXTmpFiles\system.tmp_save
+2026-04-24 11:41:02,318 [INFO] CodeEngine:289 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\MXTmpFiles\system.tmp
+2026-04-24 11:41:02,344 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-04-24 11:41:02,525 [INFO] CodeEngine:345 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Inc\stm32f4xx_hal_conf.h
+2026-04-24 11:41:02,576 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-04-24 11:41:02,584 [INFO] ApiDbMcu:532 - Load IP Config File for CAN1
+2026-04-24 11:41:02,588 [INFO] ApiDbMcu:532 - Load IP Config File for USART2
+2026-04-24 11:41:02,594 [INFO] ApiDbMcu:532 - Load IP Config File for RCC
+2026-04-24 11:41:02,611 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Inc\main.h_save
+2026-04-24 11:41:02,789 [INFO] CodeEngine:289 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Inc\main.h
+2026-04-24 11:41:02,799 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Src\main.c_save
+2026-04-24 11:41:02,995 [INFO] CodeEngine:289 - Generated code: C:\Users\Muhammed\Desktop\Genel\Projeler\Youtube\STM32_Files\CAN_BUS\Core\Src\main.c
+2026-04-24 11:41:03,467 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 197mS.
+2026-04-24 11:41:03,473 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-04-24 11:41:03,612 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-04-24 11:41:03,632 [INFO] ApiDbMcu:532 - Load IP Config File for FATFS
+2026-04-24 11:41:03,650 [INFO] ApiDbMcu:532 - Load IP Config File for FREERTOS
+2026-04-24 11:41:03,666 [INFO] ApiDbMcu:532 - Load IP Config File for LIBJPEG
+2026-04-24 11:41:03,686 [INFO] ApiDbMcu:532 - Load IP Config File for MBEDTLS
+2026-04-24 11:41:03,710 [INFO] ApiDbMcu:532 - Load IP Config File for USB_DEVICE
+2026-04-24 11:41:03,731 [INFO] ApiDbMcu:532 - Load IP Config File for USB_HOST

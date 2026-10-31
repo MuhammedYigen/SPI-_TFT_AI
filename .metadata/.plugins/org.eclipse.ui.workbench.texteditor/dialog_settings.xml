@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="HAL_CAN_AddTxMessage"/>
+		<item value="HAL_CAN_ActivateNotification"/>
+		<item value="White"/>
+		<item value="black"/>
+		<item value="SH1106_UpdateScreen"/>
+		<item value="hcan"/>
+	</list>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="hspi1"/>
+			<item value="ai_input_buffer"/>
+			<item value="stai_input"/>
+			<item value="7"/>
+			<item value="UART"/>
+		</list>
+	</section>
+</section>

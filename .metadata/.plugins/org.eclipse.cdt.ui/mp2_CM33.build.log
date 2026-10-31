@@ -1,0 +1,10 @@
+16:36:45 **** Incremental Build of configuration Debug for project mp2_CM33 ****
+make -j12 all 
+arm-none-eabi-size  mp2_CM33.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6444	     24	   1568	   8036	   1f64	mp2_CM33.elf
+Finished building: default.size.stdout
+ 
+
+16:36:45 Build Finished. 0 errors, 0 warnings. (took 196ms)
+

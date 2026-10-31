@@ -1,0 +1,10 @@
+00:07:44 **** Incremental Build of configuration Debug for project SPI_TFT_AI ****
+make -j12 all 
+arm-none-eabi-size  SPI_TFT_AI.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 400984	  90468	   8456	 499908	  7a0c4	SPI_TFT_AI.elf
+Finished building: default.size.stdout
+ 
+
+00:07:44 Build Finished. 0 errors, 0 warnings. (took 345ms)
+
